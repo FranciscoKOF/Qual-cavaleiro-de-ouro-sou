@@ -1,0 +1,8 @@
+C:\Users\RaizenKOF\Desktop\Qual cavaleiro de ouro sou\Qual cavaleiro de ouro sou\bin\Release\Qual cavaleiro de ouro sou.exe.config
+C:\Users\RaizenKOF\Desktop\Qual cavaleiro de ouro sou\Qual cavaleiro de ouro sou\bin\Release\Qual cavaleiro de ouro sou.exe
+C:\Users\RaizenKOF\Desktop\Qual cavaleiro de ouro sou\Qual cavaleiro de ouro sou\bin\Release\Qual cavaleiro de ouro sou.pdb
+C:\Users\RaizenKOF\Desktop\Qual cavaleiro de ouro sou\Qual cavaleiro de ouro sou\obj\Release\Qual cavaleiro de ouro sou.csproj.AssemblyReference.cache
+C:\Users\RaizenKOF\Desktop\Qual cavaleiro de ouro sou\Qual cavaleiro de ouro sou\obj\Release\Qual cavaleiro de ouro sou.csproj.SuggestedBindingRedirects.cache
+C:\Users\RaizenKOF\Desktop\Qual cavaleiro de ouro sou\Qual cavaleiro de ouro sou\obj\Release\Qual cavaleiro de ouro sou.csproj.CoreCompileInputs.cache
+C:\Users\RaizenKOF\Desktop\Qual cavaleiro de ouro sou\Qual cavaleiro de ouro sou\obj\Release\Qual cavaleiro de ouro sou.exe
+C:\Users\RaizenKOF\Desktop\Qual cavaleiro de ouro sou\Qual cavaleiro de ouro sou\obj\Release\Qual cavaleiro de ouro sou.pdb
